@@ -1,0 +1,7 @@
+{
+    "name": "chinese_va",
+    "version": "0.0.1",
+    "label": "Mandarin voice overs for Han",
+    "description": "This Mod has mandarin voice overs for the Han faction, these are generated with AI and google translate so they may be inaccurate. This uses modern mandarin so its not historically accurate either  ",
+    "dependencies": ["0ad=0.0.26"]
+}
