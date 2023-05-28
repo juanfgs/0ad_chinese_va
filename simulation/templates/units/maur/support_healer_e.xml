@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="units/maur/support_healer_a">
+  <Identity>
+    <Lang>hindi</Lang>
+    <Rank>Elite</Rank>
+  </Identity>
+  <Promotion disable=""/>
+</Entity>
