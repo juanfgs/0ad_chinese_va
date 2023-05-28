@@ -11,9 +11,7 @@
     <SelectionGroupName>units/han/infantry_swordsman_b</SelectionGroupName>
     <SpecificName>Dāo Bīng</SpecificName>
     <Icon>units/han/infantry_swordsman.png</Icon>
-    <Requirements>
-      <Techs datatype="tokens">phase_town</Techs>
-    </Requirements>
+    <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/han/infantry_swordsman_special_a</Entity>

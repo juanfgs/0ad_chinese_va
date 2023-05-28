@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="units/han/cavalry_archer_a">
+<Entity parent="units/han/support_healer_a">
   <Identity>
     <Lang>mandarin</Lang>
     <Rank>Elite</Rank>
   </Identity>
   <Promotion disable=""/>
-  <VisualActor>
-    <Actor>units/han/cavalry_archer_e_m.xml</Actor>
-  </VisualActor>
 </Entity>

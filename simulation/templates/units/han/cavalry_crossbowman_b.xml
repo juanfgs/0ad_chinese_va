@@ -6,9 +6,7 @@
     <SelectionGroupName>units/han/cavalry_crossbowman_b</SelectionGroupName>
     <SpecificName>Han Cavalry Crossbowman</SpecificName>
     <Icon>units/han/cavalry_crossbowman.png</Icon>
-    <Requirements>
-      <Techs datatype="tokens">phase_town</Techs>
-    </Requirements>
+    <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/han/cavalry_crossbowman_a</Entity>

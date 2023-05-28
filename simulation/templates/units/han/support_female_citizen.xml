@@ -6,8 +6,8 @@
     </Entities>
   </Builder>
   <Identity>
-    <Civ>han</Civ>
     <Lang>mandarin</Lang>
+    <Civ>han</Civ>
     <SpecificName>Fù Nǚ</SpecificName>
     <Icon>units/han/support_female_citizen.png</Icon>
   </Identity>
