@@ -7,12 +7,12 @@
     </Entities>
   </Builder>
   <Identity>
-    <Lang>hindi</Lang>
+        <Lang>hindi</Lang>
     <Civ>maur</Civ>
     <SelectionGroupName>units/maur/infantry_archer_b</SelectionGroupName>
     <GenericName>Longbowman</GenericName>
     <SpecificName>Dhanurdhar</SpecificName>
-    <Icon>units/maur_infantry_archer.png</Icon>
+    <Icon>units/maur/infantry_archer.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/maur/infantry_archer_a</Entity>

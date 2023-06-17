@@ -12,13 +12,15 @@
     </Entities>
   </Builder>
   <Identity>
-    <Lang>hindi</Lang>
+        <Lang>hindi</Lang>
     <Civ>maur</Civ>
     <SelectionGroupName>units/maur/infantry_swordsman_b</SelectionGroupName>
     <GenericName>Indian Swordsman</GenericName>
     <SpecificName>Khadagdhari</SpecificName>
-    <Icon>units/maur_infantry_swordsman.png</Icon>
-    <RequiredTechnology>phase_town</RequiredTechnology>
+    <Icon>units/maur/infantry_swordsman.png</Icon>
+    <Requirements>
+      <Techs datatype="tokens">phase_town</Techs>
+    </Requirements>
   </Identity>
   <Promotion>
     <Entity>units/maur/infantry_swordsman_a</Entity>

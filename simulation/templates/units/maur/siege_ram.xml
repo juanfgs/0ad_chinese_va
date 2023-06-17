@@ -5,9 +5,8 @@
     <Height>3.0</Height>
   </Footprint>
   <Identity>
-    <Lang>hindi</Lang>
     <Civ>maur</Civ>
-    <Icon>units/maur_siege_ram.png</Icon>
+    <Icon>units/maur/siege_ram.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>structures/mauryas/siege_ram.xml</Actor>

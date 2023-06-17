@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="units/han/support_healer_b">
   <Identity>
-    <Lang>mandarin</Lang>
     <Rank>Advanced</Rank>
   </Identity>
   <Promotion>

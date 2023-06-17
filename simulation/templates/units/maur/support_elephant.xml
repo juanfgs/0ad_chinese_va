@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_support_elephant">
   <Identity>
-    <Lang>hindi</Lang>
+        <Lang>hindi</Lang>
     <Civ>maur</Civ>
     <SpecificName>Karmākara Gaja</SpecificName>
-    <Icon>units/maur_support_elephant.png</Icon>
+    <Icon>units/maur/support_elephant.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/mauryas/support_elephant.xml</Actor>

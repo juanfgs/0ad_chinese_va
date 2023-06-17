@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_cavalry_melee_spearman">
   <Identity>
-    <Lang>mandarin</Lang>
+     <Lang>mandarin</Lang>
     <Civ>han</Civ>
     <SelectionGroupName>units/han/cavalry_spearman_b</SelectionGroupName>
     <SpecificName>Máo Qíbīng</SpecificName>
     <Icon>units/han/cavalry_spearman.png</Icon>
-    <RequiredTechnology>phase_town</RequiredTechnology>
+    <Requirements>
+      <Techs datatype="tokens">phase_town</Techs>
+    </Requirements>
   </Identity>
   <Promotion>
     <Entity>units/han/cavalry_spearman_a</Entity>

@@ -14,8 +14,10 @@
     <GenericName>Iberian Mercenary Skirmisher</GenericName>
     <SpecificName>Sǝḫīr Kidōn</SpecificName>
     <SelectionGroupName>units/cart/infantry_javelineer_iber_b</SelectionGroupName>
-    <Icon>units/cart_infantry_javelinist.png</Icon>
-    <RequiredTechnology>phase_town</RequiredTechnology>
+    <Icon>units/cart/infantry_javelinist.png</Icon>
+    <Requirements>
+      <Techs datatype="tokens">phase_town</Techs>
+    </Requirements>
   </Identity>
   <Promotion>
     <Entity>units/cart/infantry_javelineer_iber_a</Entity>

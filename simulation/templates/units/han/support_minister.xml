@@ -26,7 +26,7 @@
     units/han_minister_garrison_ministry
   </Auras>
   <Cost>
-    <Population>2</Population>
+    <Population>1</Population>
     <BuildTime>15</BuildTime>
     <Resources>
       <food>100</food>
@@ -37,7 +37,7 @@
     <Max>200</Max>
   </Health>
   <Identity>
-    <Lang>mandarin</Lang>
+       <Lang>mandarin</Lang>
     <Civ>han</Civ>
     <GenericName>Imperial Minister</GenericName>
     <SpecificName>Guānlì</SpecificName>
@@ -45,7 +45,9 @@
     <Classes datatype="tokens">Organic Human</Classes>
     <VisibleClasses datatype="tokens">Minister</VisibleClasses>
     <Icon>units/han/minister.png</Icon>
-    <RequiredTechnology>phase_town</RequiredTechnology>
+    <Requirements>
+      <Techs datatype="tokens">phase_town</Techs>
+    </Requirements>
   </Identity>
   <Loot>
     <xp>150</xp>
@@ -84,14 +86,14 @@
       <attack_melee>attack/weapon/sword_attack.xml</attack_melee>
       <build>resource/construction/con_wood.xml</build>
       <death>actor/human/death/{phenotype}_death.xml</death>
-      <order_attack>voice/{lang}/civ/civ_minister_attack.xml</order_attack>
-      <order_attack_move>voice/{lang}/civ/civ_minister_attack.xml</order_attack_move>
-      <order_garrison>voice/{lang}/civ/civ_minister_garrison.xml</order_garrison>
-      <order_gather>voice/{lang}/civ/civ_minister_gather.xml</order_gather>
-      <order_repair>voice/{lang}/civ/civ_minister_repair.xml</order_repair>
-      <order_walk>voice/{lang}/civ/civ_minister_walk.xml</order_walk>
+      <order_attack>voice/{lang}/civ/civ_{phenotype}_attack.xml</order_attack>
+      <order_attack_move>voice/{lang}/civ/civ_{phenotype}_attack.xml</order_attack_move>
+      <order_garrison>voice/{lang}/civ/civ_{phenotype}_garrison.xml</order_garrison>
+      <order_gather>voice/{lang}/civ/civ_{phenotype}_gather.xml</order_gather>
+      <order_repair>voice/{lang}/civ/civ_{phenotype}_repair.xml</order_repair>
+      <order_walk>voice/{lang}/civ/civ_{phenotype}_walk.xml</order_walk>
       <run>actor/human/movement/run.xml</run>
-      <select>voice/{lang}/civ/civ_minister_select.xml</select>
+      <select>voice/{lang}/civ/civ_{phenotype}_select.xml</select>
       <trained>interface/alarm/alarm_create_infantry.xml</trained>
       <walk>actor/human/movement/walk.xml</walk>
     </SoundGroups>

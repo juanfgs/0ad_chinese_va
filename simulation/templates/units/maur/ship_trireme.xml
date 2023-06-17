@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_ship_trireme">
+<Entity parent="template_unit_ship_warship_medium">
   <Cost>
     <BuildTime>40</BuildTime>
   </Cost>
@@ -14,10 +14,9 @@
     <Max op="add">200</Max>
   </Health>
   <Identity>
-    <Lang>hindi</Lang>
     <Civ>maur</Civ>
     <SpecificName>Yudhpot</SpecificName>
-    <Icon>units/maur_ship_trireme.png</Icon>
+    <Icon>units/maur/ship_trireme.png</Icon>
   </Identity>
   <Loot>
     <xp op="add">20</xp>

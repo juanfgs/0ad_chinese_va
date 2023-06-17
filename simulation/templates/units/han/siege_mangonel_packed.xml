@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_siege_stonethrower">
   <Identity>
-    <Lang>mandarin</Lang>
     <Civ>han</Civ>
     <GenericName>Mangonel</GenericName>
     <SpecificName>Tóushí Chē</SpecificName>

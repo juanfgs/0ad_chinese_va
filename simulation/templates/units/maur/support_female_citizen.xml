@@ -7,11 +7,11 @@
     </Entities>
   </Builder>
   <Identity>
-    <Lang>hindi</Lang>
+        <Lang>hindi</Lang>
     <Civ>maur</Civ>
     <SpecificName>Naari</SpecificName>
     <GenericName>Indian Woman</GenericName>
-    <Icon>units/maur_support_female_citizen.png</Icon>
+    <Icon>units/maur/support_female_citizen.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/mauryas/female_citizen.xml</Actor>

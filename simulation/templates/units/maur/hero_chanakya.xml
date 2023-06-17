@@ -5,11 +5,11 @@
     units/heroes/maur_hero_chanakya_2
   </Auras>
   <Identity>
-    <Lang>hindi</Lang>
+        <Lang>hindi</Lang>
     <Civ>maur</Civ>
     <GenericName>Acharya Chanakya</GenericName>
     <SpecificName>Acharya Chāṇakya</SpecificName>
-    <Icon>units/maur_hero_chanakya.png</Icon>
+    <Icon>units/maur/hero_chanakya.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/mauryas/hero_healer_chanakya.xml</Actor>

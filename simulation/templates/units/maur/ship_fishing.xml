@@ -5,11 +5,10 @@
     <Height>4.0</Height>
   </Footprint>
   <Identity>
-    <Lang>hindi</Lang>
     <Civ>maur</Civ>
     <GenericName>Fisherman</GenericName>
     <SpecificName>Matsyapalak</SpecificName>
-    <Icon>units/maur_ship_fishing.png</Icon>
+    <Icon>units/maur/ship_fishing.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>structures/mauryas/fishing_ship.xml</Actor>

@@ -5,7 +5,6 @@
     <Height>3.0</Height>
   </Footprint>
   <Identity>
-    <Lang>mandarin</Lang>
     <Civ>han</Civ>
     <SpecificName>Shāngrén</SpecificName>
     <Icon>units/han/support_trader.png</Icon>

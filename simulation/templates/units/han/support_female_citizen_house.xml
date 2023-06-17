@@ -4,7 +4,8 @@
     <BuildTime>30</BuildTime>
   </Cost>
   <Identity>
-    <Lang>mandarin</Lang>
-    <RequiredTechnology>unlock_females_house</RequiredTechnology>
+    <Requirements>
+      <Techs datatype="tokens">unlock_females_house</Techs>
+    </Requirements>
   </Identity>
 </Entity>

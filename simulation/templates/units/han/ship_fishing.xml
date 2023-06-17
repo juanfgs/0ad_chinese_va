@@ -5,7 +5,6 @@
     <Height>8.0</Height>
   </Footprint>
   <Identity>
-    <Lang>mandarin</Lang>
     <Civ>han</Civ>
     <SpecificName>Yú Chuán</SpecificName>
     <Icon>units/han/ship_fishing.png</Icon>

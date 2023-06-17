@@ -12,7 +12,6 @@
     <Height>8.0</Height>
   </Footprint>
   <Identity>
-    <Lang>mandarin</Lang>
     <Icon>units/han/siege_mangonel.png</Icon>
   </Identity>
   <Pack>

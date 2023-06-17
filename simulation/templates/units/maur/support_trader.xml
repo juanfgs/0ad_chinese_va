@@ -5,10 +5,9 @@
     <Height>4</Height>
   </Footprint>
   <Identity>
-    <Lang>hindi</Lang>
     <Civ>maur</Civ>
     <SpecificName>Vaishya</SpecificName>
-    <Icon>units/maur_support_trader.png</Icon>
+    <Icon>units/maur/support_trader.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/mauryas/trader.xml</Actor>
